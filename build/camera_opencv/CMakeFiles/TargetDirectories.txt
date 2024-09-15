@@ -1,0 +1,10 @@
+/home/m4/object_detection/build/camera_opencv/CMakeFiles/uninstall.dir
+/home/m4/object_detection/build/camera_opencv/CMakeFiles/camera_opencv_uninstall.dir
+/home/m4/object_detection/build/camera_opencv/CMakeFiles/camera.dir
+/home/m4/object_detection/build/camera_opencv/CMakeFiles/test.dir
+/home/m4/object_detection/build/camera_opencv/CMakeFiles/edit_cache.dir
+/home/m4/object_detection/build/camera_opencv/CMakeFiles/rebuild_cache.dir
+/home/m4/object_detection/build/camera_opencv/CMakeFiles/list_install_components.dir
+/home/m4/object_detection/build/camera_opencv/CMakeFiles/install.dir
+/home/m4/object_detection/build/camera_opencv/CMakeFiles/install/local.dir
+/home/m4/object_detection/build/camera_opencv/CMakeFiles/install/strip.dir

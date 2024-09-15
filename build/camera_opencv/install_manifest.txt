@@ -1,0 +1,16 @@
+/home/m4/object_detection/install/camera_opencv/lib/camera_opencv/camera
+/home/m4/object_detection/install/camera_opencv/share/ament_index/resource_index/package_run_dependencies/camera_opencv
+/home/m4/object_detection/install/camera_opencv/share/ament_index/resource_index/parent_prefix_path/camera_opencv
+/home/m4/object_detection/install/camera_opencv/share/camera_opencv/environment/ament_prefix_path.sh
+/home/m4/object_detection/install/camera_opencv/share/camera_opencv/environment/ament_prefix_path.dsv
+/home/m4/object_detection/install/camera_opencv/share/camera_opencv/environment/path.sh
+/home/m4/object_detection/install/camera_opencv/share/camera_opencv/environment/path.dsv
+/home/m4/object_detection/install/camera_opencv/share/camera_opencv/local_setup.bash
+/home/m4/object_detection/install/camera_opencv/share/camera_opencv/local_setup.sh
+/home/m4/object_detection/install/camera_opencv/share/camera_opencv/local_setup.zsh
+/home/m4/object_detection/install/camera_opencv/share/camera_opencv/local_setup.dsv
+/home/m4/object_detection/install/camera_opencv/share/camera_opencv/package.dsv
+/home/m4/object_detection/install/camera_opencv/share/ament_index/resource_index/packages/camera_opencv
+/home/m4/object_detection/install/camera_opencv/share/camera_opencv/cmake/camera_opencvConfig.cmake
+/home/m4/object_detection/install/camera_opencv/share/camera_opencv/cmake/camera_opencvConfig-version.cmake
+/home/m4/object_detection/install/camera_opencv/share/camera_opencv/package.xml
