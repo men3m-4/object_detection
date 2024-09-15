@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/camera_py/camera_py.egg-info
+writing ../../build/camera_py/camera_py.egg-info/PKG-INFO
+writing dependency_links to ../../build/camera_py/camera_py.egg-info/dependency_links.txt
+writing entry points to ../../build/camera_py/camera_py.egg-info/entry_points.txt
+writing requirements to ../../build/camera_py/camera_py.egg-info/requires.txt
+writing top-level names to ../../build/camera_py/camera_py.egg-info/top_level.txt
+writing manifest file '../../build/camera_py/camera_py.egg-info/SOURCES.txt'
+reading manifest file '../../build/camera_py/camera_py.egg-info/SOURCES.txt'
+writing manifest file '../../build/camera_py/camera_py.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/m4/object_detection/build/camera_py/build
+creating /home/m4/object_detection/build/camera_py/build/lib
+creating /home/m4/object_detection/build/camera_py/build/lib/camera_py
+copying camera_py/camera.py -> /home/m4/object_detection/build/camera_py/build/lib/camera_py
+copying camera_py/__init__.py -> /home/m4/object_detection/build/camera_py/build/lib/camera_py
+running install
+running install_lib
+creating /home/m4/object_detection/install/camera_py/lib/python3.10/site-packages/camera_py
+copying /home/m4/object_detection/build/camera_py/build/lib/camera_py/camera.py -> /home/m4/object_detection/install/camera_py/lib/python3.10/site-packages/camera_py
+copying /home/m4/object_detection/build/camera_py/build/lib/camera_py/__init__.py -> /home/m4/object_detection/install/camera_py/lib/python3.10/site-packages/camera_py
+byte-compiling /home/m4/object_detection/install/camera_py/lib/python3.10/site-packages/camera_py/camera.py to camera.cpython-310.pyc
+byte-compiling /home/m4/object_detection/install/camera_py/lib/python3.10/site-packages/camera_py/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/m4/object_detection/install/camera_py/share/ament_index
+creating /home/m4/object_detection/install/camera_py/share/ament_index/resource_index
+creating /home/m4/object_detection/install/camera_py/share/ament_index/resource_index/packages
+copying resource/camera_py -> /home/m4/object_detection/install/camera_py/share/ament_index/resource_index/packages
+copying package.xml -> /home/m4/object_detection/install/camera_py/share/camera_py
+running install_egg_info
+Copying ../../build/camera_py/camera_py.egg-info to /home/m4/object_detection/install/camera_py/lib/python3.10/site-packages/camera_py-0.0.0-py3.10.egg-info
+running install_scripts
+Installing camera script to /home/m4/object_detection/install/camera_py/lib/camera_py
+writing list of installed files to '/home/m4/object_detection/build/camera_py/install.log'

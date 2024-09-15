@@ -1,0 +1,3 @@
+[console_scripts]
+camera = camera_py.camera:main
+

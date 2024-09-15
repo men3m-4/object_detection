@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <!-- Package Information -->
+  <name>camera_py</name>
+  <version>0.0.0</version>
+  <description>
+    This package is designed to interface with camera devices using OpenCV and ROS 2.
+    It handles image capturing and processing with Python.
+  </description>
+
+
+  <!-- Maintainer Information -->
+  <maintainer email="muhammad.abdelmoniem4@gmail.com">m4</maintainer>
+  <license>TODO: License declaration</license>
+
+  <!-- Build Dependencies -->
+  <!-- Specify dependencies required for building the package -->
+  
+  <!-- Test Dependencies -->
+  <test_depend>ament_copyright</test_depend>
+  <test_depend>ament_flake8</test_depend>
+  <test_depend>ament_pep257</test_depend>
+  <test_depend>python3-pytest</test_depend>
+
+
+
+  <!-- Runtime Dependencies -->
+  <!-- Specify dependencies required when running the package -->
+  <exec_depend>rclpy</exec_depend>               <!-- ROS 2 Python client library -->
+  <exec_depend>sensor_msgs</exec_depend>         <!-- ROS 2 message type for sensor data -->
+  <exec_depend>std_msgs</exec_depend>            <!-- ROS 2 standard message types -->
+  <exec_depend>cv_bridge</exec_depend>           <!-- Converts between ROS Image messages and OpenCV images -->
+
+
+
+
+  <!-- Export Information -->
+  <export>
+    <build_type>ament_python</build_type>         <!-- Specifies the build type for Python-based packages -->
+  </export>
+
+</package>
