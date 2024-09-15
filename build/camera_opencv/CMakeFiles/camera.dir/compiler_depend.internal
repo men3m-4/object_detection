@@ -346,7 +346,6 @@ CMakeFiles/camera.dir/src/camera.cpp.o
  /usr/include/opencv4/opencv2/core/core_c.h
  /usr/include/opencv4/opencv2/core/types_c.h
  /opt/ros/humble/include/cv_bridge/cv_bridge/cv_bridge_export.h
- /opt/ros/humble/include/image_transport/image_transport/image_transport.h
  /opt/ros/humble/include/image_transport/image_transport/image_transport.hpp
  /opt/ros/humble/include/rclcpp/rclcpp/node.hpp
  /usr/include/c++/11/atomic

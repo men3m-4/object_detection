@@ -345,7 +345,6 @@ CMakeFiles/camera.dir/src/camera.cpp.o: /home/m4/object_detection/src/camera_ope
   /usr/include/opencv4/opencv2/core/core_c.h \
   /usr/include/opencv4/opencv2/core/types_c.h \
   /opt/ros/humble/include/cv_bridge/cv_bridge/cv_bridge_export.h \
-  /opt/ros/humble/include/image_transport/image_transport/image_transport.h \
   /opt/ros/humble/include/image_transport/image_transport/image_transport.hpp \
   /opt/ros/humble/include/rclcpp/rclcpp/node.hpp \
   /usr/include/c++/11/atomic \
@@ -1353,10 +1352,6 @@ CMakeFiles/camera.dir/src/camera.cpp.o: /home/m4/object_detection/src/camera_ope
 
 /usr/include/c++/11/locale:
 
-/opt/ros/humble/include/rclcpp/rclcpp/experimental/buffers/ring_buffer_implementation.hpp:
-
-/usr/include/c++/11/bits/ostream.tcc:
-
 /usr/include/c++/11/bits/localefwd.h:
 
 /usr/include/c++/11/cstdint:
@@ -2207,6 +2202,10 @@ CMakeFiles/camera.dir/src/camera.cpp.o: /home/m4/object_detection/src/camera_ope
 
 /opt/ros/humble/include/rmw/rmw/rmw.h:
 
+/usr/include/c++/11/bits/ostream.tcc:
+
+/opt/ros/humble/include/rclcpp/rclcpp/experimental/buffers/ring_buffer_implementation.hpp:
+
 /usr/include/c++/11/bits/list.tcc:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/gthr.h:
@@ -2304,8 +2303,6 @@ CMakeFiles/camera.dir/src/camera.cpp.o: /home/m4/object_detection/src/camera_ope
 /usr/include/c++/11/ext/numeric_traits.h:
 
 /opt/ros/humble/include/rcl_interfaces/rcl_interfaces/msg/detail/parameter_event__struct.hpp:
-
-/opt/ros/humble/include/image_transport/image_transport/image_transport.h:
 
 /opt/ros/humble/include/rcl_interfaces/rcl_interfaces/msg/detail/parameter_descriptor__traits.hpp:
 
