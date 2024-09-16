@@ -1,9 +1,0 @@
-[1.794s] Invoking command in '/home/m4/object_detection/src/objects_py': PYTHONPATH=/home/m4/object_detection/build/objects_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/m4/object_detection/install/objects_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/objects_py build --build-base /home/m4/object_detection/build/objects_py/build install --record /home/m4/object_detection/build/objects_py/install.log --single-version-externally-managed install_data
-[2.320s] running egg_info
-[2.321s] writing ../../build/objects_py/object_detection.egg-info/PKG-INFO
-[2.322s] writing dependency_links to ../../build/objects_py/object_detection.egg-info/dependency_links.txt
-[2.323s] writing entry points to ../../build/objects_py/object_detection.egg-info/entry_points.txt
-[2.325s] writing requirements to ../../build/objects_py/object_detection.egg-info/requires.txt
-[2.325s] writing top-level names to ../../build/objects_py/object_detection.egg-info/top_level.txt
-[2.329s] error: package directory 'object_detection' does not exist
-[2.366s] Invoked command in '/home/m4/object_detection/src/objects_py' returned '1': PYTHONPATH=/home/m4/object_detection/build/objects_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/m4/object_detection/install/objects_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/objects_py build --build-base /home/m4/object_detection/build/objects_py/build install --record /home/m4/object_detection/build/objects_py/install.log --single-version-externally-managed install_data

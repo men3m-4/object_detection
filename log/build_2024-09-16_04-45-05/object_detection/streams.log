@@ -1,0 +1,37 @@
+[1.128s] Invoking command in '/home/m4/object_detection/src/object_detection': PYTHONPATH=/home/m4/object_detection/build/object_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/m4/object_detection/install/object_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/object_detection build --build-base /home/m4/object_detection/build/object_detection/build install --record /home/m4/object_detection/build/object_detection/install.log --single-version-externally-managed install_data
+[1.414s] running egg_info
+[1.415s] creating ../../build/object_detection/object_detection.egg-info
+[1.415s] writing ../../build/object_detection/object_detection.egg-info/PKG-INFO
+[1.416s] writing dependency_links to ../../build/object_detection/object_detection.egg-info/dependency_links.txt
+[1.417s] writing entry points to ../../build/object_detection/object_detection.egg-info/entry_points.txt
+[1.417s] writing requirements to ../../build/object_detection/object_detection.egg-info/requires.txt
+[1.417s] writing top-level names to ../../build/object_detection/object_detection.egg-info/top_level.txt
+[1.417s] writing manifest file '../../build/object_detection/object_detection.egg-info/SOURCES.txt'
+[1.418s] reading manifest file '../../build/object_detection/object_detection.egg-info/SOURCES.txt'
+[1.419s] writing manifest file '../../build/object_detection/object_detection.egg-info/SOURCES.txt'
+[1.419s] running build
+[1.420s] running build_py
+[1.420s] creating /home/m4/object_detection/build/object_detection/build
+[1.420s] creating /home/m4/object_detection/build/object_detection/build/lib
+[1.420s] creating /home/m4/object_detection/build/object_detection/build/lib/object_detection
+[1.420s] copying object_detection/detection_node.py -> /home/m4/object_detection/build/object_detection/build/lib/object_detection
+[1.421s] copying object_detection/__init__.py -> /home/m4/object_detection/build/object_detection/build/lib/object_detection
+[1.421s] running install
+[1.421s] running install_lib
+[1.421s] creating /home/m4/object_detection/install/object_detection/lib/python3.10/site-packages/object_detection
+[1.422s] copying /home/m4/object_detection/build/object_detection/build/lib/object_detection/detection_node.py -> /home/m4/object_detection/install/object_detection/lib/python3.10/site-packages/object_detection
+[1.422s] copying /home/m4/object_detection/build/object_detection/build/lib/object_detection/__init__.py -> /home/m4/object_detection/install/object_detection/lib/python3.10/site-packages/object_detection
+[1.422s] byte-compiling /home/m4/object_detection/install/object_detection/lib/python3.10/site-packages/object_detection/detection_node.py to detection_node.cpython-310.pyc
+[1.423s] byte-compiling /home/m4/object_detection/install/object_detection/lib/python3.10/site-packages/object_detection/__init__.py to __init__.cpython-310.pyc
+[1.423s] running install_data
+[1.423s] creating /home/m4/object_detection/install/object_detection/share/ament_index
+[1.423s] creating /home/m4/object_detection/install/object_detection/share/ament_index/resource_index
+[1.423s] creating /home/m4/object_detection/install/object_detection/share/ament_index/resource_index/packages
+[1.424s] copying resource/object_detection -> /home/m4/object_detection/install/object_detection/share/ament_index/resource_index/packages
+[1.424s] copying package.xml -> /home/m4/object_detection/install/object_detection/share/object_detection
+[1.424s] running install_egg_info
+[1.425s] Copying ../../build/object_detection/object_detection.egg-info to /home/m4/object_detection/install/object_detection/lib/python3.10/site-packages/object_detection-0.0.0-py3.10.egg-info
+[1.426s] running install_scripts
+[1.454s] Installing detector script to /home/m4/object_detection/install/object_detection/lib/object_detection
+[1.455s] writing list of installed files to '/home/m4/object_detection/build/object_detection/install.log'
+[1.484s] Invoked command in '/home/m4/object_detection/src/object_detection' returned '0': PYTHONPATH=/home/m4/object_detection/build/object_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/m4/object_detection/install/object_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/object_detection build --build-base /home/m4/object_detection/build/object_detection/build install --record /home/m4/object_detection/build/object_detection/install.log --single-version-externally-managed install_data

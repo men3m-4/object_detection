@@ -1,4 +1,0 @@
-Invoking command in '/home/m4/object_detection/build/camera_opencv': /usr/bin/cmake --build /home/m4/object_detection/build/camera_opencv -- -j6 -l6
-Invoked command in '/home/m4/object_detection/build/camera_opencv' returned '0': /usr/bin/cmake --build /home/m4/object_detection/build/camera_opencv -- -j6 -l6
-Invoking command in '/home/m4/object_detection/build/camera_opencv': /usr/bin/cmake --install /home/m4/object_detection/build/camera_opencv
-Invoked command in '/home/m4/object_detection/build/camera_opencv' returned '0': /usr/bin/cmake --install /home/m4/object_detection/build/camera_opencv

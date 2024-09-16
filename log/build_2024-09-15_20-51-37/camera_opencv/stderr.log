@@ -1,4 +1,0 @@
-In file included from [01m[K/home/m4/object_detection/src/camera_opencv/src/camera.cpp:2[m[K:
-[01m[K/opt/ros/humble/include/image_transport/image_transport/image_transport.h:32:89:[m[K [01;36m[Knote: [m[K‘[01m[K#pragma message: Warning: This header is deprecated. Use 'image_transport.hpp' instead[m[K’
-   32 | #pragma message ("Warning: This header is deprecated. Use 'image_transport.hpp' instead"[01;36m[K)[m[K
-      |                                                                                         [01;36m[K^[m[K

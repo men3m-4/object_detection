@@ -1,1 +1,1 @@
-/opt/ros/humble
+/opt/ros/humble:/home/m4/object_detection/install/objects_py:/home/m4/object_detection/install/object_detection:/home/m4/object_detection/install/camera_py:/home/m4/object_detection/install/camera_opencv

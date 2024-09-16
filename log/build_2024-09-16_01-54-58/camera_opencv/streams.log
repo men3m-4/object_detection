@@ -1,2 +1,0 @@
-[0.061s] Invoking command in '/home/m4/object_detection/build/camera_opencv': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/m4/object_detection/install/objects_py:/opt/ros/humble:/home/m4/object_detection/install/camera_py /usr/bin/cmake --build /home/m4/object_detection/build/camera_opencv -- -j6 -l6
-[0.587s] [100%] Built target camera
