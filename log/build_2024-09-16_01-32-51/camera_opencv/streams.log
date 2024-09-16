@@ -1,0 +1,22 @@
+[0.062s] Invoking command in '/home/m4/object_detection/build/camera_opencv': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble:/home/m4/object_detection/install/camera_py /usr/bin/cmake --build /home/m4/object_detection/build/camera_opencv -- -j6 -l6
+[0.577s] [100%] Built target camera
+[1.088s] Invoked command in '/home/m4/object_detection/build/camera_opencv' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble:/home/m4/object_detection/install/camera_py /usr/bin/cmake --build /home/m4/object_detection/build/camera_opencv -- -j6 -l6
+[1.204s] Invoking command in '/home/m4/object_detection/build/camera_opencv': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble:/home/m4/object_detection/install/camera_py /usr/bin/cmake --install /home/m4/object_detection/build/camera_opencv
+[1.220s] -- Install configuration: ""
+[1.220s] -- Up-to-date: /home/m4/object_detection/install/camera_opencv/lib/camera_opencv/camera
+[1.221s] -- Up-to-date: /home/m4/object_detection/install/camera_opencv/share/ament_index/resource_index/package_run_dependencies/camera_opencv
+[1.222s] -- Up-to-date: /home/m4/object_detection/install/camera_opencv/share/ament_index/resource_index/parent_prefix_path/camera_opencv
+[1.222s] -- Up-to-date: /home/m4/object_detection/install/camera_opencv/share/camera_opencv/environment/ament_prefix_path.sh
+[1.222s] -- Up-to-date: /home/m4/object_detection/install/camera_opencv/share/camera_opencv/environment/ament_prefix_path.dsv
+[1.222s] -- Up-to-date: /home/m4/object_detection/install/camera_opencv/share/camera_opencv/environment/path.sh
+[1.223s] -- Up-to-date: /home/m4/object_detection/install/camera_opencv/share/camera_opencv/environment/path.dsv
+[1.223s] -- Up-to-date: /home/m4/object_detection/install/camera_opencv/share/camera_opencv/local_setup.bash
+[1.223s] -- Up-to-date: /home/m4/object_detection/install/camera_opencv/share/camera_opencv/local_setup.sh
+[1.223s] -- Up-to-date: /home/m4/object_detection/install/camera_opencv/share/camera_opencv/local_setup.zsh
+[1.223s] -- Up-to-date: /home/m4/object_detection/install/camera_opencv/share/camera_opencv/local_setup.dsv
+[1.224s] -- Installing: /home/m4/object_detection/install/camera_opencv/share/camera_opencv/package.dsv
+[1.224s] -- Up-to-date: /home/m4/object_detection/install/camera_opencv/share/ament_index/resource_index/packages/camera_opencv
+[1.224s] -- Up-to-date: /home/m4/object_detection/install/camera_opencv/share/camera_opencv/cmake/camera_opencvConfig.cmake
+[1.224s] -- Up-to-date: /home/m4/object_detection/install/camera_opencv/share/camera_opencv/cmake/camera_opencvConfig-version.cmake
+[1.224s] -- Up-to-date: /home/m4/object_detection/install/camera_opencv/share/camera_opencv/package.xml
+[1.229s] Invoked command in '/home/m4/object_detection/build/camera_opencv' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble:/home/m4/object_detection/install/camera_py /usr/bin/cmake --install /home/m4/object_detection/build/camera_opencv

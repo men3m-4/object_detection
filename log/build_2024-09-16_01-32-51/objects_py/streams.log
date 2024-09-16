@@ -1,0 +1,37 @@
+[1.779s] Invoking command in '/home/m4/object_detection/src/objects_py': PYTHONPATH=/home/m4/object_detection/build/objects_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/m4/object_detection/install/objects_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/objects_py build --build-base /home/m4/object_detection/build/objects_py/build install --record /home/m4/object_detection/build/objects_py/install.log --single-version-externally-managed install_data
+[2.284s] running egg_info
+[2.287s] creating ../../build/objects_py/objects_py.egg-info
+[2.287s] writing ../../build/objects_py/objects_py.egg-info/PKG-INFO
+[2.288s] writing dependency_links to ../../build/objects_py/objects_py.egg-info/dependency_links.txt
+[2.288s] writing entry points to ../../build/objects_py/objects_py.egg-info/entry_points.txt
+[2.288s] writing requirements to ../../build/objects_py/objects_py.egg-info/requires.txt
+[2.288s] writing top-level names to ../../build/objects_py/objects_py.egg-info/top_level.txt
+[2.288s] writing manifest file '../../build/objects_py/objects_py.egg-info/SOURCES.txt'
+[2.292s] reading manifest file '../../build/objects_py/objects_py.egg-info/SOURCES.txt'
+[2.293s] writing manifest file '../../build/objects_py/objects_py.egg-info/SOURCES.txt'
+[2.294s] running build
+[2.294s] running build_py
+[2.294s] creating /home/m4/object_detection/build/objects_py/build
+[2.294s] creating /home/m4/object_detection/build/objects_py/build/lib
+[2.295s] creating /home/m4/object_detection/build/objects_py/build/lib/objects_py
+[2.295s] copying objects_py/objects_node.py -> /home/m4/object_detection/build/objects_py/build/lib/objects_py
+[2.295s] copying objects_py/__init__.py -> /home/m4/object_detection/build/objects_py/build/lib/objects_py
+[2.296s] running install
+[2.296s] running install_lib
+[2.298s] creating /home/m4/object_detection/install/objects_py/lib/python3.10/site-packages/objects_py
+[2.298s] copying /home/m4/object_detection/build/objects_py/build/lib/objects_py/objects_node.py -> /home/m4/object_detection/install/objects_py/lib/python3.10/site-packages/objects_py
+[2.299s] copying /home/m4/object_detection/build/objects_py/build/lib/objects_py/__init__.py -> /home/m4/object_detection/install/objects_py/lib/python3.10/site-packages/objects_py
+[2.301s] byte-compiling /home/m4/object_detection/install/objects_py/lib/python3.10/site-packages/objects_py/objects_node.py to objects_node.cpython-310.pyc
+[2.302s] byte-compiling /home/m4/object_detection/install/objects_py/lib/python3.10/site-packages/objects_py/__init__.py to __init__.cpython-310.pyc
+[2.302s] running install_data
+[2.302s] creating /home/m4/object_detection/install/objects_py/share/ament_index
+[2.303s] creating /home/m4/object_detection/install/objects_py/share/ament_index/resource_index
+[2.303s] creating /home/m4/object_detection/install/objects_py/share/ament_index/resource_index/packages
+[2.303s] copying resource/objects_py -> /home/m4/object_detection/install/objects_py/share/ament_index/resource_index/packages
+[2.304s] copying package.xml -> /home/m4/object_detection/install/objects_py/share/objects_py
+[2.304s] running install_egg_info
+[2.308s] Copying ../../build/objects_py/objects_py.egg-info to /home/m4/object_detection/install/objects_py/lib/python3.10/site-packages/objects_py-0.0.0-py3.10.egg-info
+[2.310s] running install_scripts
+[2.354s] Installing detector script to /home/m4/object_detection/install/objects_py/lib/objects_py
+[2.355s] writing list of installed files to '/home/m4/object_detection/build/objects_py/install.log'
+[2.410s] Invoked command in '/home/m4/object_detection/src/objects_py' returned '0': PYTHONPATH=/home/m4/object_detection/build/objects_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/m4/object_detection/install/objects_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/objects_py build --build-base /home/m4/object_detection/build/objects_py/build install --record /home/m4/object_detection/build/objects_py/install.log --single-version-externally-managed install_data

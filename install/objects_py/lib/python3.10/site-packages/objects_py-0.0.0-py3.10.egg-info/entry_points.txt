@@ -1,0 +1,3 @@
+[console_scripts]
+detector = objects_py.detector:main
+

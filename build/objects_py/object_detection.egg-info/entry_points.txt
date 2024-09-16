@@ -1,0 +1,3 @@
+[console_scripts]
+detector = object_detection.detection_node:main
+

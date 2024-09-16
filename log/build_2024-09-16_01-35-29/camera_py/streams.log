@@ -1,0 +1,21 @@
+[1.756s] Invoking command in '/home/m4/object_detection/src/camera_py': PYTHONPATH=/home/m4/object_detection/build/camera_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/m4/object_detection/install/camera_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/camera_py build --build-base /home/m4/object_detection/build/camera_py/build install --record /home/m4/object_detection/build/camera_py/install.log --single-version-externally-managed install_data
+[2.263s] running egg_info
+[2.265s] writing ../../build/camera_py/camera_py.egg-info/PKG-INFO
+[2.265s] writing dependency_links to ../../build/camera_py/camera_py.egg-info/dependency_links.txt
+[2.266s] writing entry points to ../../build/camera_py/camera_py.egg-info/entry_points.txt
+[2.267s] writing requirements to ../../build/camera_py/camera_py.egg-info/requires.txt
+[2.267s] writing top-level names to ../../build/camera_py/camera_py.egg-info/top_level.txt
+[2.272s] reading manifest file '../../build/camera_py/camera_py.egg-info/SOURCES.txt'
+[2.273s] writing manifest file '../../build/camera_py/camera_py.egg-info/SOURCES.txt'
+[2.274s] running build
+[2.274s] running build_py
+[2.274s] running install
+[2.275s] running install_lib
+[2.278s] running install_data
+[2.278s] running install_egg_info
+[2.282s] removing '/home/m4/object_detection/install/camera_py/lib/python3.10/site-packages/camera_py-0.0.0-py3.10.egg-info' (and everything under it)
+[2.283s] Copying ../../build/camera_py/camera_py.egg-info to /home/m4/object_detection/install/camera_py/lib/python3.10/site-packages/camera_py-0.0.0-py3.10.egg-info
+[2.285s] running install_scripts
+[2.328s] Installing camera script to /home/m4/object_detection/install/camera_py/lib/camera_py
+[2.330s] writing list of installed files to '/home/m4/object_detection/build/camera_py/install.log'
+[2.385s] Invoked command in '/home/m4/object_detection/src/camera_py' returned '0': PYTHONPATH=/home/m4/object_detection/build/camera_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/m4/object_detection/install/camera_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/camera_py build --build-base /home/m4/object_detection/build/camera_py/build install --record /home/m4/object_detection/build/camera_py/install.log --single-version-externally-managed install_data

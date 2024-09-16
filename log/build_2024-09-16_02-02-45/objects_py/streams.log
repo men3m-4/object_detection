@@ -1,0 +1,26 @@
+[0.770s] Invoking command in '/home/m4/object_detection/src/objects_py': PYTHONPATH=/home/m4/object_detection/build/objects_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/m4/object_detection/install/objects_py/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/objects_py build --build-base /home/m4/object_detection/build/objects_py/build install --record /home/m4/object_detection/build/objects_py/install.log --install-scripts $base/lib/object_detection --single-version-externally-managed install_data
+[0.956s] /usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[0.956s]   warnings.warn(
+[0.964s] running egg_info
+[0.964s] writing ../../build/objects_py/object_detection.egg-info/PKG-INFO
+[0.965s] writing dependency_links to ../../build/objects_py/object_detection.egg-info/dependency_links.txt
+[0.965s] writing entry points to ../../build/objects_py/object_detection.egg-info/entry_points.txt
+[0.966s] writing requirements to ../../build/objects_py/object_detection.egg-info/requires.txt
+[0.966s] writing top-level names to ../../build/objects_py/object_detection.egg-info/top_level.txt
+[0.968s] reading manifest file '../../build/objects_py/object_detection.egg-info/SOURCES.txt'
+[0.970s] writing manifest file '../../build/objects_py/object_detection.egg-info/SOURCES.txt'
+[0.970s] running build
+[0.971s] running build_py
+[0.971s] creating /home/m4/object_detection/build/objects_py/build/lib/object_detection
+[0.971s] copying object_detection/detection_node.py -> /home/m4/object_detection/build/objects_py/build/lib/object_detection
+[0.971s] copying object_detection/__init__.py -> /home/m4/object_detection/build/objects_py/build/lib/object_detection
+[0.971s] running install
+[0.971s] running install_lib
+[0.972s] creating /home/m4/object_detection/install/objects_py/lib/python3.10/site-packages/object_detection
+[0.973s] copying /home/m4/object_detection/build/objects_py/build/lib/object_detection/detection_node.py -> /home/m4/object_detection/install/objects_py/lib/python3.10/site-packages/object_detection
+[0.973s] copying /home/m4/object_detection/build/objects_py/build/lib/object_detection/__init__.py -> /home/m4/object_detection/install/objects_py/lib/python3.10/site-packages/object_detection
+[0.974s] byte-compiling /home/m4/object_detection/install/objects_py/lib/python3.10/site-packages/object_detection/detection_node.py to detection_node.cpython-310.pyc
+[0.974s] byte-compiling /home/m4/object_detection/install/objects_py/lib/python3.10/site-packages/object_detection/__init__.py to __init__.cpython-310.pyc
+[0.974s] running install_data
+[0.974s] error: can't copy 'resource/object_detection': doesn't exist or not a regular file
+[0.998s] Invoked command in '/home/m4/object_detection/src/objects_py' returned '1': PYTHONPATH=/home/m4/object_detection/build/objects_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/m4/object_detection/install/objects_py/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/objects_py build --build-base /home/m4/object_detection/build/objects_py/build install --record /home/m4/object_detection/build/objects_py/install.log --install-scripts $base/lib/object_detection --single-version-externally-managed install_data
